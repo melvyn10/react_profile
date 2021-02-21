@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  }
+
+.portBody {
+  color: aliceblue;
+  text-align: center;
+  font-family: cursive;
+  background-color: whitesmoke;
+  background: #161415 url(./asset/image/background.jpg) no-repeat top center;
+  padding-top: 5px;
+  padding-bottom: 70px;
+
+}
+
+.card {
+  color: gray;
+  text-align: left;
+  font-family: cursive;
+  background-color: whitesmoke;
+  padding-top: 5px;
+  padding-bottom: 70px;
+}
+
+

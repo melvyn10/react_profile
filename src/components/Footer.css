@@ -1,0 +1,23 @@
+.footer {
+    padding-top: 5px;
+    padding-bottom: 0;
+    background-color: lightgray;
+    text-align: center;
+    height: 70px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.row_social{
+    margin: 0;
+}
+
+li {
+    display: inline;
+}
+
+.socialIconList {
+    list-style: none;
+    padding: 0;
+}

@@ -1,0 +1,7 @@
+.nav-link {
+    font-size:  xx-small;
+    color: gray;
+}
+.nav-link > .active {
+    color: blue;
+}
