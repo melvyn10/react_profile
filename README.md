@@ -55,7 +55,7 @@ Melvyn T
 
 npm express
 Heroku
-Mockaroo API
+React
 Bootstrap
 
 ## Tests
